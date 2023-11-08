@@ -1,3 +1,5 @@
+## Working with percentages in programming
+
 1. **Calculating a percentage of a given number:**
    ```python
    number = 100
